@@ -8,7 +8,7 @@ embargo==0.1.1
 Flask==0.12.5
 gevent==1.4.0
 greenlet==1.0.0
-idna==2.10
+idna==3.7
 itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
